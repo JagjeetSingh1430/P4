@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Management</title>
+</head>
+<style>
+/* Reset basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background: #2b2b2b;
+    color: white;
+    padding: 1rem 0;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin-left: 20px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+}
+
+header nav ul li {
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Hero Section */
+.hero {
+    background: url('https://source.unsplash.com/1600x600/?education,study') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.hero-content {
+    background: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+.hero h2 {
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    margin-bottom: 2rem;
+}
+
+.btn {
+    background: #8b4513;
+    color: white;
+    padding: 0.8rem 2rem;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/* About Section */
+.about {
+    background: #8b4513;
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.about h2 {
+    margin-bottom: 1rem;
+}
+
+.about p {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+/* Features Section */
+.features {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.features .container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.features h2 {
+    margin-bottom: 1rem;
+}
+
+.feature-card {
+    background: white;
+    margin: 1rem;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer */
+footer {
+    background: #2b2b2b;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+</style>
+
+<body>
+
+<header>
+    <div class="container">
+        <h1>Course Management System</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Courses</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="hero-content">
+        <h2>Manage Your Courses Easily</h2>
+        <p>Stay organized and track your learning journey with our powerful course management system.</p>
+        <a href="#" class="btn">Get Started</a>
+    </div>
+</section>
+
+<section class="about">
+    <h2>About Our Project</h2>
+    <p>
+        The Course Management System is designed to simplify the process of managing and registering for courses. It provides students with an easy-to-use platform where they can explore courses, track their learning progress, and receive certifications upon completion. The platform ensures efficient course handling, making the learning experience seamless and productive.
+    </p>
+</section>
+
+<section class="features">
+    <div class="container">
+        <h2>Our Features</h2>
+        <div class="feature-card">
+            <h3>Course Registration</h3>
+            <p>Register for your preferred courses with ease.</p>
+        </div>
+        <div class="feature-card">
+            <h3>Progress Tracking</h3>
+            <p>Monitor your learning progress and achievements.</p>
+        </div>
+        <div class="feature-card">
+            <h3>Certified Courses</h3>
+            <p>Earn certifications upon course completion.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 Course Management System. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
