@@ -1,0 +1,399 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers,Watchers Id,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (CVSS score),Custom field (CVSS vector),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Goals),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Sentiment),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Team Id,Team Name,Custom field (Total forms),Custom field (Vulnerability),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Comment,Comment,Parent,Parent summary,Status Category,Status Category Changed
+Make sure everything is working properly,COUR-33,10199,Story,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 11:22 AM,07/Dec/24 11:22 AM,07/Dec/24 11:42 AM,,,0,,,,,,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000kf:,,,,,,,,,,,,,,,,,,,,To Do,07/Dec/24 11:22 AM
+Add email verification functionality,COUR-32,10198,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:38 AM,07/Dec/24 9:38 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000k7:,,,,,,,,,,,,,,,,,,10176,User Management,In Progress,07/Dec/24 9:38 AM
+Test and fix access issues,COUR-31,10197,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:38 AM,07/Dec/24 9:38 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000jz:,,,,,,,,,,,,,,,,,,10176,User Management,In Progress,07/Dec/24 9:38 AM
+Validate course creation and enrollment,COUR-30,10196,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:37 AM,07/Dec/24 9:37 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000jr:,,,,,,,,,,,,,,,,,,10181,Testing and QA,In Progress,07/Dec/24 9:37 AM
+Test user registration and login flows,COUR-29,10195,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:37 AM,07/Dec/24 9:37 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000jj:,,,,,,,,,,,,,,,,,,10181,Testing and QA,In Progress,07/Dec/24 9:37 AM
+Implement backend logic to calculate progress,COUR-28,10194,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:34 AM,07/Dec/24 9:34 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000jb:,,,,,,,,,,,,,,,,,,10180,Course Process Tracking,In Progress,07/Dec/24 9:34 AM
+Design UI for student progress overview,COUR-27,10193,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:33 AM,07/Dec/24 9:34 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000j3:,,,,,,,,,,,,,,,,,,10180,Course Process Tracking,In Progress,07/Dec/24 9:34 AM
+Test payment flow with multiple currencies,COUR-26,10192,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:32 AM,07/Dec/24 9:32 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000iv:,,,,,,,,,,,,,,,,,,10179,Payment Gateway,In Progress,07/Dec/24 9:32 AM
+Create a payment summary page,COUR-25,10191,Task,Done,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:32 AM,07/Dec/24 9:32 AM,07/Dec/24 11:42 AM,07/Dec/24 9:32 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000in:,,,,,,,,,,,,,,,10139_*:*_1_*:*_12533_*|*_10141_*:*_1_*:*_0,,,10179,Payment Gateway,Done,07/Dec/24 9:32 AM
+Develop payment API integration,COUR-24,10190,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:32 AM,07/Dec/24 9:32 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000if:,,,,,,,,,,,,,,,,,,10179,Payment Gateway,In Progress,07/Dec/24 9:32 AM
+Develop notifications for successful enrollment,COUR-23,10189,Task,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:31 AM,07/Dec/24 9:31 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000i7:,,,,,,,,,,,,,,,,,,10178,Enrollment process,To Do,07/Dec/24 9:31 AM
+Validate enrollment criteria,COUR-22,10188,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:31 AM,07/Dec/24 9:31 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000hz:,,,,,,,,,,,,,,,,,,10178,Enrollment process,In Progress,07/Dec/24 9:31 AM
+Create course enrollment form,COUR-21,10187,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:31 AM,07/Dec/24 9:31 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000hr:,,,,,,,,,,,,,,,,,,10178,Enrollment process,In Progress,07/Dec/24 9:31 AM
+Implement role-based permissions,COUR-20,10186,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:30 AM,07/Dec/24 9:30 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000hj:,,,,,,,,,,,,,,,,,,10177,Course Management,In Progress,07/Dec/24 9:30 AM
+"Create roles: Admin, Instructor, Student",COUR-19,10185,Task,Done,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:29 AM,07/Dec/24 9:30 AM,07/Dec/24 11:42 AM,07/Dec/24 9:30 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000hb:,,,,,,,,,,,,,,,10139_*:*_1_*:*_20908_*|*_10141_*:*_1_*:*_0,,,10177,Course Management,Done,07/Dec/24 9:30 AM
+Add email verification functionality,COUR-18,10184,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:29 AM,07/Dec/24 9:30 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000h3:,,,,,,,,,,,,,,,,,,10177,Course Management,In Progress,07/Dec/24 9:30 AM
+Implement backend authentication logic,COUR-17,10183,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:29 AM,07/Dec/24 9:30 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000gv:,,,,,,,,,,,,,,,,,,10177,Course Management,In Progress,07/Dec/24 9:30 AM
+Design UI for registration and login pages,COUR-16,10182,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:29 AM,07/Dec/24 9:30 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000gn:,,,,,,,,,,,,,,,,,,10177,Course Management,In Progress,07/Dec/24 9:30 AM
+Testing and QA,COUR-15,10181,Epic,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:22 AM,07/Dec/24 9:36 AM,07/Dec/24 9:36 AM,,21/Dec/24 12:00 AM,0,"This epic involves conducting various tests such as usability, performance, cross-browser, and device compatibility testing. It covers both manual and automated testing to ensure the application meets functional and non-functional requirements.",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i000gf:,,,,08/Dec/24 12:00 AM,,,,,,,,,,,,,,,,To Do,07/Dec/24 9:22 AM
+Course Process Tracking,COUR-14,10180,Epic,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:21 AM,07/Dec/24 9:34 AM,07/Dec/24 9:33 AM,,28/Dec/24 12:00 AM,0,"This epic covers features related to tracking and displaying course progress for students and instructors. It includes progress dashboards, completion status, assessment tracking, and generating performance reports.",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},ghx-label-5,,,,,dark_teal,,,,,0|i000g7:,,,,05/Dec/24 12:00 AM,,,,,,,,,,,,,,,,To Do,07/Dec/24 9:21 AM
+Payment Gateway,COUR-13,10179,Epic,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:21 AM,07/Dec/24 9:33 AM,07/Dec/24 9:34 AM,,30/Dec/24 12:00 AM,0,"This epic focuses on integrating a secure payment gateway to process course fees. It includes payment methods, transaction tracking, payment confirmations, and error handling during transactions.",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},ghx-label-3,,,,,yellow,,,,,0|i000fz:,,,,27/Nov/24 12:00 AM,,,,,,,,,,,,,,,,In Progress,07/Dec/24 9:23 AM
+Enrollment process,COUR-12,10178,Epic,Done,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:21 AM,07/Dec/24 9:26 AM,07/Dec/24 9:30 AM,07/Dec/24 9:23 AM,16/Dec/24 12:00 AM,0,"This epic covers the entire course enrollment process, from students applying for courses to instructors approving enrollment requests. It includes notifications, waiting lists, and enrollment status tracking.",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},ghx-label-11,,,,,teal,,,,,0|i000fr:,,,,03/Dec/24 12:00 AM,,,,,,,,,,,10139_*:*_1_*:*_128572_*|*_10141_*:*_1_*:*_0,,,,,Done,07/Dec/24 9:23 AM
+Course Management,COUR-11,10177,Epic,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:21 AM,07/Dec/24 9:26 AM,07/Dec/24 9:28 AM,,30/Dec/24 12:00 AM,0,"This epic involves creating and managing courses, including adding course details, managing course categories, and maintaining the course catalog. It also covers the course display interface for students and administrators",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},ghx-label-6,,,,,green,,,,,0|i000fj:,,,,01/Dec/24 12:00 AM,,,,,,,,,,,,,,,,In Progress,07/Dec/24 9:23 AM
+User Management,COUR-10,10176,Epic,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:20 AM,07/Dec/24 9:25 AM,07/Dec/24 9:37 AM,,23/Dec/24 12:00 AM,0,"This epic focuses on building user-related features such as registration, login, and role-based access control. It includes creating secure authentication mechanisms, user profiles, and assigning roles like Admin, Instructor, and Student with appropriate permissions",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},ghx-label-10,,,,,blue,,,,,0|i000fb:,,,,08/Dec/24 12:00 AM,,,,,,,,,,,,,,,,To Do,07/Dec/24 9:20 AM
+Develop search and filter options,COUR-9,10175,Task,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:19 AM,07/Dec/24 9:39 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000f3:,,,COUR Sprint 1,,,,,,,,,,,,,,,,,To Do,07/Dec/24 9:19 AM
+Develop backend logic to store course data,COUR-8,10174,Task,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:19 AM,07/Dec/24 9:39 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000ev:,,,COUR Sprint 1,,,,,,,,,,,,,,,,,To Do,07/Dec/24 9:19 AM
+Integration and Testing,COUR-7,10173,Task,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:15 AM,07/Dec/24 9:39 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000en:,,,COUR Sprint 1,,,,,,,,,,,,,,,,,To Do,07/Dec/24 9:15 AM
+Define Database Schema,COUR-6,10172,Task,Done,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:14 AM,07/Dec/24 9:39 AM,07/Dec/24 11:42 AM,07/Dec/24 9:20 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000ef:,,,COUR Sprint 1,,,,,,,,,,,,10139_*:*_1_*:*_311744_*|*_10141_*:*_1_*:*_0,,,,,Done,07/Dec/24 9:20 AM
+Design the course creation form.,COUR-5,10171,Task,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:14 AM,07/Dec/24 9:39 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000e7:,,,COUR Sprint 1,,,,,,,,,,,,,,,,,To Do,07/Dec/24 9:14 AM
+"Develop logic for role-based UI rendering.
+",COUR-4,10170,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:14 AM,07/Dec/24 9:39 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000dz:,,,COUR Sprint 1,,,,,,,,,,,,,,,,,In Progress,07/Dec/24 9:20 AM
+Create roles and permissions matrix,COUR-3,10169,Task,In Progress,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:14 AM,07/Dec/24 9:39 AM,07/Dec/24 11:40 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000dr:,,,COUR Sprint 1,,,,,,,,,,,,,,,,,In Progress,07/Dec/24 9:19 AM
+Integrate authentication API.,COUR-2,10168,Task,Done,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:13 AM,07/Dec/24 9:39 AM,07/Dec/24 11:42 AM,07/Dec/24 9:19 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000dj:,,,COUR Sprint 1,,,,,,,,,,,,10139_*:*_1_*:*_354944_*|*_10141_*:*_1_*:*_0,,,,,Done,07/Dec/24 9:19 AM
+Design the registration and login UI,COUR-1,10167,Task,To Do,COUR,Course_Management_Application2,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 9:13 AM,07/Dec/24 9:38 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000db:,,,COUR Sprint 1,,,,,,,,,,,,,,,,,To Do,07/Dec/24 9:13 AM
+Test Input Validation,MPT-9,10166,Story,In Progress,MPT,Mortgage Prequalification Tool,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 7:59 AM,07/Dec/24 8:01 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000d3:,,,,,,,,,,,,,,,,,,10158,Mortgage Prequalification Calculator.,In Progress,07/Dec/24 8:01 AM
+Create API to Submit Form Data,MPT-8,10165,Story,In Progress,MPT,Mortgage Prequalification Tool,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 7:59 AM,07/Dec/24 8:01 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000cv:,,,,,,,,,,,,,,,,,,10158,Mortgage Prequalification Calculator.,In Progress,07/Dec/24 8:01 AM
+Implement Input Validation (Backend),MPT-7,10164,Story,In Progress,MPT,Mortgage Prequalification Tool,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 7:59 AM,07/Dec/24 8:01 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000cn:,,,,,,,,,,,,,,,,,,10158,Mortgage Prequalification Calculator.,In Progress,07/Dec/24 8:01 AM
+Design Loan Eligibility Form (Frontend),MPT-6,10163,Story,In Progress,MPT,Mortgage Prequalification Tool,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 7:59 AM,07/Dec/24 8:01 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000cf:,,,,,,,,,,,,,,,,,,10158,Mortgage Prequalification Calculator.,In Progress,07/Dec/24 8:01 AM
+Test Input Validation,MPT-5,10162,Story,In Progress,MPT,Mortgage Prequalification Tool,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 7:57 AM,07/Dec/24 8:01 AM,07/Dec/24 7:59 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000c7:,,,Mortgage Prequalification Form,,,,,,,,,,,,,,,10158,Mortgage Prequalification Calculator.,In Progress,07/Dec/24 8:01 AM
+Create API to Submit Form Data,MPT-4,10161,Story,In Progress,MPT,Mortgage Prequalification Tool,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 7:56 AM,07/Dec/24 8:01 AM,07/Dec/24 7:59 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000bz:,,,Mortgage Prequalification Form,,,,,,,,,,,,,,,10158,Mortgage Prequalification Calculator.,In Progress,07/Dec/24 8:01 AM
+Implement Input Validation (Backend),MPT-3,10160,Story,In Progress,MPT,Mortgage Prequalification Tool,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 7:56 AM,07/Dec/24 8:01 AM,07/Dec/24 7:59 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000br:,,,Mortgage Prequalification Form,,,,,,,,,,,,,,,10158,Mortgage Prequalification Calculator.,In Progress,07/Dec/24 8:01 AM
+Design Loan Eligibility Form (Frontend),MPT-2,10159,Story,In Progress,MPT,Mortgage Prequalification Tool,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 7:55 AM,07/Dec/24 8:01 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000bj:,,,Mortgage Prequalification Form,,,,,,,,,,,,,,,10158,Mortgage Prequalification Calculator.,In Progress,07/Dec/24 8:01 AM
+Mortgage Prequalification Calculator.,MPT-1,10158,Epic,To Do,MPT,Mortgage Prequalification Tool,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,07/Dec/24 7:40 AM,07/Dec/24 7:42 AM,07/Dec/24 7:41 AM,,10/Dec/24 12:00 AM,0,"Develop a tool to help customers determine if they prequalify for a mortgage based on the following rules:
+	•	Applicants must have a debt-to-income (DTI) ratio below 43%.
+	•	Monthly mortgage payments cannot exceed 30% of the applicant’s monthly income.
+	•	Applicants must have a minimum credit score of 650.",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000bb:,,,,04/Dec/24 12:00 AM,,,,,,cc418fe5-a01e-427b-ac1c-8872362d75dc,Project Management Team,,,,,,,,,To Do,07/Dec/24 7:40 AM
+User Management API Endpoints,CMA-44,10121,Subtask,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,19/Oct/24 10:06 AM,19/Oct/24 10:07 AM,07/Dec/24 11:42 AM,19/Oct/24 10:06 AM,,0,,,Raghav Thakur,,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000b3:,,,,,,,,,,,,,,,null,"19/Oct/24 10:07 AM;712020:d529e9b4-f98d-41ca-884d-3af31fc7e839;*Create a New User*
+
+* *Endpoint*: {{/api/users}}
+* *Method*: {{POST}}
+* *Description*: Registers a new user in the system.
+*Request Body*
+* {
+  ""username"": ""johndoe"",
+  ""email"": ""[john@example.com|mailto:john@example.com]"",
+  ""password"": ""password123""
+}
+
+*Response*
+{
+  ""message"": ""User created successfully"",
+  ""user"": {
+    ""id"": 1,
+    ""username"": ""johndoe"",
+    ""email"": ""[john@example.com|mailto:john@example.com]""
+  }
+}",,10114,Develop API Endpoints for User Management,Done,19/Oct/24 10:06 AM
+Create roles and permissions for database users.,CMA-43,10120,Subtask,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,19/Oct/24 10:04 AM,19/Oct/24 10:04 AM,07/Dec/24 11:42 AM,19/Oct/24 10:04 AM,,0,,,Raghav Thakur,,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000av:,,,,,,,,,,,,,,,null,,,10113,Database Setup,Done,19/Oct/24 10:04 AM
+making   a database,CMA-42,10119,Subtask,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,19/Oct/24 10:01 AM,19/Oct/24 10:01 AM,07/Dec/24 11:42 AM,19/Oct/24 10:01 AM,,0,,,Raghav Thakur,,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i000an:,,,,,,,,,,cc418fe5-a01e-427b-ac1c-8872362d75dc,Project Management Team,,,,null,,,10112,Define Database Schema,Done,19/Oct/24 10:01 AM
+Automate Test Execution,CMA-40,10117,Task,QA Engineer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:45 AM,19/Oct/24 1:19 PM,30/Nov/24 12:17 PM,,22/Nov/24 12:00 AM,0,Set up automation for recurring tests using tools like Selenium or JUnit.,,jagjeet singh,Sahilpreet Singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0003f:,,,,13/Nov/24 12:00 AM,,,,,,,,,,2024-10-19 17:19:04.467,,"19/Oct/24 1:19 PM;712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da;*As a QA engineer in our JIRA project, I'm focused on ensuring high-quality deliverables through robust testing processes. Here’s how I approach automation and integration with JIRA:*
+
+# *Test Case Management:* I use our integrated test management tool (like Zephyr or Xray) to create and manage test cases directly linked to JIRA issues. This ensures traceability between requirements and tests.
+# *Automation with Selenium and JUnit:* I’m developing automated test scripts using Selenium and JUnit, which allows us to run tests efficiently and consistently. Each test case is linked to specific JIRA tickets, providing clear visibility of testing efforts related to features or bug fixes.
+# *Scheduled Test Execution:* I leverage CI/CD tools like Jenkins to automate the execution of our test suite on a regular basis. This helps us catch issues early and maintain a steady flow of quality feedback to the development team.
+# *Reporting Results:* After test execution, I ensure that results are automatically reported back to JIRA, keeping our team informed about test outcomes. This includes logging defects for any failures and updating the status of test cases.
+# *Continuous Improvement:* I regularly review our testing strategy and adapt it based on feedback and evolving project requirements. This helps us maintain a high standard of quality while aligning with agile practices.",,10105,Quality Assurance and Testing,In Progress,19/Oct/24 10:31 AM
+Integration Testing,CMA-39,10116,Task,QA Engineer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:45 AM,19/Oct/24 1:21 PM,19/Oct/24 1:23 PM,,10/Nov/24 12:00 AM,0,"Verify that different modules (frontend, backend, database) work together.",,jagjeet singh,Sahilpreet Singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0003i:,,,,03/Nov/24 12:00 AM,,,,,,,,,,2024-10-19 17:21:27.992,,"19/Oct/24 1:21 PM;712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da;Certainly! Here’s a response you can use as a QA engineer in a JIRA project when discussing how to verify that different modules (frontend, backend, and database) work together:
+
+----
+
+*As a QA engineer in our JIRA project, verifying that different modules—frontend, backend, and database—work together seamlessly is a crucial part of my testing strategy. Here’s how I approach this integration testing:*
+
+h3. 1. *Integration Test Planning*
+
+I start by identifying the key interactions between the modules. This includes defining the workflows that involve frontend requests hitting the backend, which in turn interacts with the database.
+
+h3. 2. *Test Environment Setup*
+
+I ensure that we have a dedicated test environment that mirrors our production setup. This includes deploying the frontend and backend services and configuring the database appropriately. Using tools like Docker can help in maintaining consistent environments.
+
+h3. 3. *Creating Integration Tests*
+
+I write integration tests that cover the following aspects:
+
+* *Frontend to Backend Interaction:* I verify that the frontend properly sends requests to the backend and handles responses correctly. This includes checking for the right HTTP status codes, response formats, and data handling.
+* *Backend to Database Interaction:* I test that the backend interacts correctly with the database by performing CRUD operations. This ensures that data is correctly saved, retrieved, updated, and deleted.
+* *End-to-End Scenarios:* I design end-to-end tests that simulate real user scenarios, ensuring that all modules work together as intended. These tests validate the entire workflow from user actions in the frontend to data storage in the database.
+
+h3. 4. *Using Tools for Automation*
+
+I leverage tools like *Postman* for API testing, *Jest* or *Mocha* for backend integration tests, and *Selenium* or *Cypress* for frontend tests. This helps automate the verification process and ensures consistency.
+
+h3. 5. *Logging and Monitoring*
+
+I implement logging in our application to monitor interactions between modules during tests. This helps in identifying issues and understanding the flow of data across the system.
+
+h3. 6. *Reporting and Documentation*
+
+After executing the integration tests, I document the results and link any identified issues to the relevant JIRA tickets. This ensures that our team has visibility into integration points and can track progress on fixes.
+
+h3. 7. *Continuous Improvement*
+
+I also participate in regular reviews of our integration testing strategy to incorporate feedback and improve coverage, ensuring we adapt to changes in our application architecture or requirements.",,10105,Quality Assurance and Testing,In Progress,19/Oct/24 10:31 AM
+Create Unit Test Cases,CMA-38,10115,Task,QA Engineer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:45 AM,19/Oct/24 1:20 PM,19/Oct/24 1:23 PM,,03/Nov/24 12:00 AM,0,Write unit test cases for both frontend and backend components.,,jagjeet singh,Sahilpreet Singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0003h:,,,,26/Oct/24 12:00 AM,,,,,,,,,,2024-10-19 17:20:35.476,,"19/Oct/24 1:20 PM;712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da;h3. Frontend Unit Testing
+
+For our frontend components, I utilize *Jest* and *React Testing Library*. I focus on writing tests that validate the rendering of components and their behavior. For example, I ensure that:
+
+* Components render with the correct props.
+* User interactions, such as button clicks, trigger expected events.
+* Conditional rendering behaves as intended based on different states.
+
+By doing this, I help maintain a robust UI that meets our functional requirements.
+
+h3. Backend Unit Testing
+
+On the backend, I use *Jest* (or *Mocha* with Supertest) to test our API endpoints and business logic. My tests cover:
+
+* Response status codes for various scenarios (e.g., valid and invalid inputs).
+* Correctness of the data returned in responses.
+* Error handling and edge cases.
+
+This thorough testing ensures that our backend services are reliable and meet our application’s functional specifications.
+
+h3. Integration with JIRA
+
+I link each unit test case to relevant JIRA issues, ensuring traceability. This allows our team to monitor testing progress and coverage related to specific features or bug fixes. After executing tests, I document the results in JIRA and create reports for visibility and decision-making.
+
+h3. Continuous Improvement
+
+I also advocate for regular code reviews of our test cases to enhance our testing strategy. This practice helps us identify gaps and improve the overall quality of our codebase.
+
+By implementing a robust unit testing strategy for both frontend and backend, I contribute to delivering high-quality software that aligns with our project goals.",,10105,Quality Assurance and Testing,In Progress,19/Oct/24 10:31 AM
+Develop API Endpoints for User Management,CMA-37,10114,Task,Backend Developer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:44 AM,19/Oct/24 10:35 AM,19/Oct/24 1:25 PM,,04/Dec/24 12:00 AM,0,"Create endpoints for user creation, deletion, and updates.",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0002u:,,,,11/Nov/24 12:00 AM,,,,,,,,,,,,,,10104,Backend Infrastructure Setup,In Progress,19/Oct/24 10:33 AM
+Database Setup,CMA-36,10113,Task,Backend Developer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:44 AM,19/Oct/24 10:35 AM,16/Nov/24 9:55 AM,,18/Nov/24 12:00 AM,0,"Set up the necessary database (e.g., MySQL, PostgreSQL).",,jagjeet singh,Raghav Thakur,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,,,,,,,,,19/Oct/24 10:15 AM;712020:d529e9b4-f98d-41ca-884d-3af31fc7e839;image-20241019-141514.png;https://jagjeetsingh.atlassian.net/rest/api/3/attachment/content/10000,,,,,,,,,{},,,,,,purple,,,,,0|i0002r:,,,,07/Nov/24 12:00 AM,,,,,,,,,,2024-10-19 13:50:55.159,,19/Oct/24 9:50 AM;712020:d529e9b4-f98d-41ca-884d-3af31fc7e839;im working on it ,"19/Oct/24 10:15 AM;712020:d529e9b4-f98d-41ca-884d-3af31fc7e839;* *DBA (Database Administrator)*
+** Full access to all database-related tasks.
+** Responsible for creating, managing, and maintaining the database.
+* *Backend Developer*
+** Access to create and modify database tables and run queries but limited to schema changes and optimization tasks.
+* *Data Analyst*
+** Read-only access to the database for running queries and generating reports.
+* *DevOps Engineer*
+** Access for managing database deployment and backup/restore tasks.
+** . *Create Roles in Jira*
+
+* Go to *Jira Administration* (⚙️) > *System* > *Project Roles*.
+* Click *Add Project Role*.
+* Create roles like *DBA*, *Backend Developer*, *Data Analyst*, and *DevOps Engineer*.
+
+
+
+!image-20241019-141514.png|width=769,height=265,alt=""image-20241019-141514.png""!",10104,Backend Infrastructure Setup,In Progress,19/Oct/24 10:33 AM
+Define Database Schema,CMA-35,10112,Task,Backend Developer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:44 AM,19/Oct/24 10:33 AM,16/Nov/24 11:43 AM,,08/Nov/24 12:00 AM,0,Design and finalize the database schema.,,jagjeet singh,Raghav Thakur,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0002t:,,,,27/Oct/24 12:00 AM,,,,,,cc418fe5-a01e-427b-ac1c-8872362d75dc,Project Management Team,,,2024-10-19 14:10:38.256,,"19/Oct/24 10:10 AM;712020:d529e9b4-f98d-41ca-884d-3af31fc7e839;h4. Table: {{Users}}
+
+* *id*: Primary key (auto-incremented).
+* *username*: Unique string to represent the user's name.
+* *email*: Unique string, used for login and communication.
+* *password_hash*: Encrypted password.
+* *created_at*: Timestamp when the user was created.
+* *updated_at*: Timestamp when the user was last updated.
+* *is_active*: Boolean to determine if the user is active.",,10104,Backend Infrastructure Setup,In Progress,19/Oct/24 10:33 AM
+UI Testing,CMA-34,10111,Task,FRONTEND DEVELOPER,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:43 AM,19/Oct/24 10:35 AM,16/Nov/24 11:43 AM,,28/Nov/24 12:00 AM,0,Perform unit and integration testing for UI components.,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0001y:,,,,17/Nov/24 12:00 AM,,,,,,,,,,,,,,10103,Epic: UI/UX Development and Optimization,In Progress,19/Oct/24 10:32 AM
+Responsive Design,CMA-33,10110,Task,FRONTEND DEVELOPER,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:43 AM,19/Oct/24 10:35 AM,16/Nov/24 11:43 AM,,17/Nov/24 12:00 AM,0,Ensure the UI is responsive and works across different devices and screen sizes.,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0001v:,,,,10/Nov/24 12:00 AM,,,,,,,,,,,,,,10103,Epic: UI/UX Development and Optimization,In Progress,19/Oct/24 10:32 AM
+Implement UI Components,CMA-32,10109,Task,FRONTEND DEVELOPER,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:43 AM,19/Oct/24 10:35 AM,19/Oct/24 1:25 PM,,13/Nov/24 12:00 AM,0,"Develop reusable components for the UI (buttons, navigation, forms, etc.).",,Harmanpreet Singh,jagjeet singh,712020:19801315-4e26-4e83-8396-5808470fe500,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0001x:,,,,05/Nov/24 12:00 AM,,,,,,,,,,2024-10-19 14:28:50.702,,"19/Oct/24 10:28 AM;712020:19801315-4e26-4e83-8396-5808470fe500; essential for maintaining consistency and efficiency throughout your design process.
+*Buttons,*. *Navigation Bar* ,*Forms*",,10103,Epic: UI/UX Development and Optimization,In Progress,19/Oct/24 10:32 AM
+Create UI Mockups,CMA-31,10108,Task,FRONTEND DEVELOPER,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:43 AM,19/Oct/24 10:35 AM,16/Nov/24 11:42 AM,,16/Nov/24 12:00 AM,0,Build high-fidelity mockups based on the wireframes.,,Harmanpreet Singh,jagjeet singh,712020:19801315-4e26-4e83-8396-5808470fe500,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0001y:i,,,,31/Oct/24 12:00 AM,,,,,,,,,,2024-10-19 14:26:24.01,,"19/Oct/24 10:26 AM;712020:19801315-4e26-4e83-8396-5808470fe500;High-Fidelity Mockup Components
+Header,Main Content Area,Footer",,10103,Epic: UI/UX Development and Optimization,In Progress,19/Oct/24 10:33 AM
+Design Wireframes,CMA-30,10107,Task,FRONTEND DEVELOPER,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:42 AM,19/Oct/24 10:34 AM,16/Nov/24 11:43 AM,,04/Nov/24 12:00 AM,0,Create wireframes for the user interface,,Harmanpreet Singh,jagjeet singh,712020:19801315-4e26-4e83-8396-5808470fe500,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0001r:,,,,22/Oct/24 12:00 AM,,,,,,,,,,2024-10-19 14:24:22.026,,"19/Oct/24 10:24 AM;712020:19801315-4e26-4e83-8396-5808470fe500;*Header*: Logo, Search Bar, Navigation Menu (Home, About, Services, Contact)
+
+
+*Main Content Area*:
+
+* Featured Image/Banner
+* Brief Introduction/Text Block",,10103,Epic: UI/UX Development and Optimization,In Progress,19/Oct/24 10:32 AM
+Quality Assurance and Testing,CMA-28,10105,Epic,QA Engineer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:36 AM,19/Oct/24 9:57 AM,19/Oct/24 9:40 AM,,24/Nov/24 12:00 AM,0,"Involves creating test plans, executing tests, and ensuring all features meet the required quality standards.",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0007r:,,,,25/Oct/24 12:00 AM,,,,,,cc418fe5-a01e-427b-ac1c-8872362d75dc,Project Management Team,,,,,19/Oct/24 9:38 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;We have to do the testing properly so that we are not getting any complains.,,,,In Progress,19/Oct/24 9:37 AM
+Backend Infrastructure Setup,CMA-27,10104,Epic,Backend Developer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:34 AM,19/Oct/24 10:09 AM,07/Dec/24 9:30 AM,,04/Dec/24 12:00 AM,0,"Ensures the backend systems, including databases and API endpoints, are properly set up and functional.",,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0007j:,,,,24/Oct/24 12:00 AM,,,,,,cc418fe5-a01e-427b-ac1c-8872362d75dc,Project Management Team,,,,,19/Oct/24 9:36 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;Make sure you are doing it within the timeline ,,,,In Progress,19/Oct/24 9:34 AM
+Epic: UI/UX Development and Optimization,CMA-26,10103,Epic,FRONTEND DEVELOPER,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,19/Oct/24 9:29 AM,19/Oct/24 9:55 AM,07/Dec/24 9:27 AM,,29/Nov/24 12:00 AM,0,Focuses on designing and developing a responsive and intuitive user interface for the application.,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0007b:,,,,20/Oct/24 12:00 AM,,,,,,cc418fe5-a01e-427b-ac1c-8872362d75dc,Project Management Team,,,,,,,,,In Progress,19/Oct/24 9:31 AM
+Recruitment Process,RP-6,10063,Epic,To Do,RP,Recruitment Process,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,05/Oct/24 1:12 PM,05/Oct/24 1:14 PM,05/Oct/24 1:12 PM,,28/Nov/24 12:00 AM,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,purple,,,,,0|i0006v:,,,,30/Sep/24 12:00 AM,,,,,,,,,,,,05/Oct/24 1:14 PM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;Here are the tasks assigneed to each ,,,,To Do,05/Oct/24 1:12 PM
+offer letter and navigation,WEEK-5,10062,Task,To Do,WEEK,week5,software,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,Medium,,,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,05/Oct/24 11:57 AM,05/Oct/24 11:59 AM,07/Dec/24 11:42 AM,,,0,,,Sahilpreet Singh,,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0006n:,,,,,,,,,,,,,,,,,,,,To Do,05/Oct/24 11:59 AM
+interview process,WEEK-4,10061,Task,To Do,WEEK,week5,software,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,Medium,,,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,05/Oct/24 11:57 AM,05/Oct/24 11:59 AM,07/Dec/24 11:42 AM,,,0,,,Sahilpreet Singh,,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0006f:,,,,,,,,,,,,,,,,,,,,To Do,05/Oct/24 11:59 AM
+candidate screening,WEEK-3,10060,Task,open,WEEK,week5,software,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,Medium,,,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,05/Oct/24 11:57 AM,05/Oct/24 11:59 AM,07/Dec/24 11:42 AM,,,0,,,Sahilpreet Singh,,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0005v:,,,,,,,,,,,,,,,,,,,,In Progress,05/Oct/24 11:59 AM
+interview schedule,WEEK-2,10059,Task,To Do,WEEK,week5,software,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,Medium,,,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,05/Oct/24 11:56 AM,05/Oct/24 11:58 AM,07/Dec/24 11:42 AM,,,0,,,Sahilpreet Singh,,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0005z:,,,,,,,,,,,,,,,,,,,,To Do,05/Oct/24 11:58 AM
+jira posting,WEEK-1,10058,Task,open,WEEK,week5,software,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,Medium,,,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,05/Oct/24 11:56 AM,05/Oct/24 11:59 AM,07/Dec/24 11:42 AM,,,0,,,Sahilpreet Singh,,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0005r:,,,,,,,,,,,,,,,,,,,,In Progress,05/Oct/24 11:59 AM
+Offer letter and Negotioation,RP-5,10057,Task,To Do,RP,Recruitment Process,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,05/Oct/24 11:53 AM,05/Oct/24 11:53 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0005j:,,,,,,,,,,,,,,,,,,,,To Do,05/Oct/24 11:53 AM
+Interview process,RP-4,10056,Task,To Do,RP,Recruitment Process,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,05/Oct/24 11:53 AM,05/Oct/24 11:53 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0005b:,,,,,,,,,,,,,,,,,,,,To Do,05/Oct/24 11:53 AM
+Candidate screening,RP-3,10055,Task,open,RP,Recruitment Process,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,05/Oct/24 11:53 AM,05/Oct/24 11:55 AM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0004r:,,,,,,,,,,,,,,,,,,,,In Progress,05/Oct/24 11:55 AM
+interview scheduling ,RP-2,10054,Task,To Do,RP,Recruitment Process,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,05/Oct/24 11:52 AM,05/Oct/24 1:13 PM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0004v:,,,,,,,,,,,,,,,,,,10063,Recruitment Process,To Do,05/Oct/24 11:52 AM
+job posting,RP-1,10053,Task,open,RP,Recruitment Process,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,05/Oct/24 11:52 AM,05/Oct/24 1:13 PM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0004n:,,,,,,,,,,,,,,,,,,10063,Recruitment Process,In Progress,05/Oct/24 11:55 AM
+Login,CMA-18,10052,Task,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 1:26 PM,28/Sep/24 1:26 PM,05/Oct/24 11:44 AM,28/Sep/24 1:26 PM,,0,to raghav,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0004f:,,,,,,,,,,,,,,,null,,,,,Done,28/Sep/24 1:26 PM
+Quality Assurance,CMA-17,10051,Task,Project Manager,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:24 AM,28/Sep/24 12:39 AM,28/Sep/24 12:38 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i00047:,,,,,,,,,,,,,,,,"28/Sep/24 12:39 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;# *Review and Approve Work*:
+#* Review the work completed by team members to ensure it meets quality standards.
+#* Provide feedback and approve tasks as they are completed.
+# *User Acceptance Testing (UAT)*:
+#* Coordinate UAT with the QA Engineer and stakeholders.
+#* Ensure the application meets all user requirements before final deployment.",,,,In Progress,28/Sep/24 12:24 AM
+Risk Management,CMA-16,10050,Task,Project Manager,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:24 AM,28/Sep/24 12:38 AM,28/Sep/24 12:38 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0003z:,,,,,,,,,,,,,,,,"28/Sep/24 12:38 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;# *Identify Risks*:
+#* Identify potential risks that could impact the project timeline or quality.
+#* Develop mitigation strategies to address these risks.
+# *Issue Resolution*:
+#* Address any issues or roadblocks that arise during the project.
+#* Ensure quick resolution to keep the project moving forward.",,,,In Progress,28/Sep/24 12:24 AM
+Communication and coordination,CMA-15,10049,Task,Project Manager,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:24 AM,28/Sep/24 12:37 AM,16/Nov/24 10:04 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0003r:,,,,,,,,,,,,,,,,"28/Sep/24 12:37 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;# *Team Meetings*:
+#* Schedule regular stand-up meetings to discuss progress and address any issues.
+#* Facilitate communication between frontend, backend, and QA teams.
+# *Stakeholder Communication*:
+#* Keep stakeholders informed about project progress and any changes.
+#* Gather feedback and ensure it is incorporated into the project.",,,,In Progress,28/Sep/24 12:24 AM
+Project planning,CMA-14,10048,Task,Project Manager,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:24 AM,28/Sep/24 12:36 AM,16/Oct/24 11:04 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0003j:,,,,,,,,,,,,,,,,"28/Sep/24 12:36 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;# *Define Project Scope*:
+#* Clearly outline the objectives and deliverables of the Course Registration Application.
+#* Ensure all team members understand their roles and responsibilities.
+# *Create and Manage Jira Board*:
+#* Set up the Jira board with Epics, Stories, and Tasks.
+#* Assign tasks to team members and monitor their progress.
+# *Timeline and Milestones*:
+#* Develop a project timeline with key milestones.
+#* Ensure the project stays on track and adjust timelines as necessary.",,,,In Progress,28/Sep/24 12:24 AM
+User Acceptance Testing,CMA-13,10047,Task,QA Engineer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:19 AM,28/Sep/24 10:23 AM,28/Sep/24 12:56 PM,,,0,,,jagjeet singh,Sahilpreet Singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0003b:,,,,,,,,,,,,,,2024-09-28 14:23:35.111,,"28/Sep/24 12:34 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;* Coordinate with stakeholders to conduct UAT.
+* Ensure the application meets user expectations and requirements.","28/Sep/24 10:23 AM;712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da;* Coordinate with stakeholders to conduct UAT.
+* Ensure the application meets user expectations and requirements.
+
+Hi Jagjeet,
+
+I will coordinate with the relevant stakeholders to schedule and conduct User Acceptance Testing (UAT). My goal is to ensure that the application meets user expectations and aligns with the specified requirements.
+
+I’ll gather feedback during the UAT sessions and make sure any concerns are addressed promptly. Please let me know if there are specific areas you’d like us to focus on or if you have any additional input.
+
+Thank you!
+Sahilpreet Singh
+QA Engineer",,,In Progress,28/Sep/24 12:19 AM
+Execute Tests,CMA-12,10046,Task,QA Engineer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:18 AM,28/Sep/24 10:21 AM,28/Sep/24 12:56 PM,,,0,,,jagjeet singh,Sahilpreet Singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i00033:,,,,,,,,,,,,,,2024-09-28 14:21:31.506,,"28/Sep/24 12:34 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;* Perform manual and automated testing.
+* Report and track bugs using Jira.","28/Sep/24 10:21 AM;712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da;Hi Jagjeet singh,
+
+I have performed both manual and automated testing on the reported issue. During my tests, I was able to reproduce the bug consistently. I’ve documented the steps to reproduce, the expected outcome, and the actual result in the bug report.
+
+I will continue to monitor for any additional related issues and keep track of our findings. If you have any further questions or need additional information, feel free to reach out!
+
+Best,
+Sahilpreet Singh
+QA Engineer",,,In Progress,28/Sep/24 12:18 AM
+Create Test Plans,CMA-11,10045,Task,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:18 AM,19/Oct/24 9:58 AM,19/Oct/24 9:58 AM,19/Oct/24 9:58 AM,,0,,,jagjeet singh,Sahilpreet Singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0002v:,,,,,,,,,,,,,,2024-09-28 14:04:57.362,10043_*:*_1_*:*_326_*|*_10045_*:*_1_*:*_0,"28/Sep/24 12:33 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;* Develop comprehensive test plans covering all aspects of the application.
+* Define test cases for both functional and non-functional requirements.","28/Sep/24 10:04 AM;712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da;Thank you for your input! I’m in the process of developing comprehensive test plans that cover all aspects of the application.
+
+h3. Test Plans Overview:
+
+# *Functional Testing:*
+#* *Objectives:* Validate that the application behaves as expected according to the requirements.
+#* *Scope:*
+#** User interface functionality
+#** API endpoints
+#** Business logic
+#** Error handling
+# *Non-Functional Testing:*
+#* *Objectives:* Ensure the application meets performance, security, usability, and compliance standards.
+#* *Scope:*
+#** Performance testing (load, stress, and scalability)
+#** Security testing (vulnerability assessment and penetration testing)
+#** Usability testing (user experience and accessibility)
+#** Compatibility testing (across different devices and browsers)
+
+h3. Test Cases:
+
+*Functional Requirements:*
+
+* *Test Case 1:* Verify user login functionality with valid credentials.
+* *Test Case 2:* Validate error messages for invalid login attempts.
+* *Test Case 3:* Check data submission and retrieval from the database.
+* *Test Case 4:* Confirm user permissions for different roles.
+
+*Non-Functional Requirements:*
+
+* *Test Case 1:* Measure response time under peak load (performance).
+* *Test Case 2:* Conduct vulnerability scans to identify security flaws.
+* *Test Case 3:* Assess the application’s behavior on various devices (compatibility).
+* *Test Case 4:* Evaluate the user interface for accessibility compliance.
+
+I’ll ensure that all test cases are documented in our test management tool and will provide regular updates on the testing progress. If there are specific areas you’d like me to focus on or additional requirements to include, please let me know!",,,Done,19/Oct/24 9:58 AM
+Integration and Testing,CMA-10,10044,Task,Backend Developer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:17 AM,28/Sep/24 9:53 AM,28/Sep/24 12:56 PM,,,0,,,jagjeet singh,Raghav Thakur,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0002n:,,,,,,,,,,,,,,2024-09-28 13:53:14.866,,"28/Sep/24 12:33 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;* Integrate APIs with the frontend.
+* Perform integration testing to ensure smooth communication between frontend and backend.","28/Sep/24 9:53 AM;712020:d529e9b4-f98d-41ca-884d-3af31fc7e839;h3. API Integration with Frontend in Course Management
+
+# *API Endpoints*:
+
+* *GET /courses*: Retrieve a list of courses.
+* *POST /courses*: Add a new course.
+* *GET /courses/{id}*: Retrieve course details.
+* *PUT /courses/{id}*: Update course information.
+* *DELETE /courses/{id}*: Remove a course.
+*Frontend Implementation*:
+** Use a framework like React, Angular, or Vue.js for the frontend.
+** Utilize {{fetch}} or libraries like Axios for making API calls
+
+
+** *Example using React with Axios*:
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
+
+const CourseList = () => {
+    const [courses, setCourses] = useState([]);
+
+{noformat}useEffect(() => {
+    const fetchCourses = async () => {
+        try {
+            const response = await axios.get('/api/courses');
+            setCourses(response.data);
+        } catch (error) {
+            console.error('Error fetching courses:', error);
+        }
+    };
+
+    fetchCourses();
+}, []);
+
+return (
+    <div>
+        <h1>Course List</h1>
+        <ul>
+            {courses.map(course => (
+                <li key={course.id}>{course.title}</li>
+            ))}
+        </ul>
+    </div>
+);{noformat}
+
+};
+
+export default CourseList;",,,In Progress,28/Sep/24 12:17 AM
+Develop API Endpoints,CMA-9,10043,Task,Backend Developer,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:17 AM,28/Sep/24 10:47 AM,07/Dec/24 11:23 AM,,,0,,,jagjeet singh,Raghav Thakur,712020:152ed106-3290-4698-8fa0-e1d3009626bc,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0002f:,,,,,,,,,,,,,,2024-09-28 14:47:58.485,,"28/Sep/24 12:32 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;* Create RESTful APIs for course registration, user authentication, and data retrieval.
+* Ensure secure and efficient data handling.","28/Sep/24 10:47 AM;712020:d529e9b4-f98d-41ca-884d-3af31fc7e839;h3. Key Components
+
+# *User Authentication (JWT-based)*
+# *Course Registration (Student & Instructor roles)*
+# *Data Retrieval (Courses, Users, Enrollments)*
+
+----
+
+h3. Step-by-Step Structure
+
+h4. 1. *Set up Environment*
+
+Ensure you have:
+
+* *Node.js*
+* *Express.js*
+* *MongoDB* (for database)
+* *Mongoose* (to interact with MongoDB)
+* *jsonwebtoken* (for JWT-based authentication)
+* *bcryptjs* (for password hashing)",,,In Progress,28/Sep/24 12:17 AM
+Set Up Database,CMA-8,10042,Task,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,Raghav Thakur,712020:d529e9b4-f98d-41ca-884d-3af31fc7e839,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:16 AM,19/Oct/24 9:59 AM,19/Oct/24 9:59 AM,19/Oct/24 9:59 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i00027:,,,,,,,,,,,,,,,10044_*:*_1_*:*_0_*|*_10043_*:*_1_*:*_272,"28/Sep/24 12:32 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;* Design the database schema for storing course and user information.
+* Implement database migrations and seed data.",,,,Done,19/Oct/24 9:59 AM
+Design User Interface(UI),CMA-7,10041,Task,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:09 AM,28/Sep/24 12:09 AM,07/Dec/24 11:42 AM,28/Sep/24 12:09 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0001z:,,,,,,,,,,,,,,,null,,,,,Done,28/Sep/24 12:09 AM
+Testing and Debugging,CMA-6,10040,Task,FRONTEND DEVELOPER,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:08 AM,18/Oct/24 9:56 PM,07/Dec/24 9:13 AM,,,0,,,Harmanpreet Singh,jagjeet singh,712020:19801315-4e26-4e83-8396-5808470fe500,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0001f:,,,,,,,,,,,,,,2024-09-28 14:04:01.484,,28/Sep/24 12:31 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;* Perform unit testing and fix any bugs in the frontend code.,"28/Sep/24 10:04 AM;712020:19801315-4e26-4e83-8396-5808470fe500;# Setting Up Your Testing Environment
+Choose a testing framework suitable for your project, such as:
+
+Jest: A popular JavaScript testing framework.
+Mocha: A flexible testing framework often used with Chai for assertions.
+React Testing Library: Great for testing React components.
+
+# Writing Unit Tests
+Here's a basic example of how to write unit tests for a React component using Jest and React Testing Library.
+
+TEXT EXAPMLE
+
+// Button.test.js
+import React from 'react';
+import { render, fireEvent } from '@testing-library/react';
+import Button from './Button';
+
+test('renders button with label', () => {
+    const { getByText } = render(<Button label=""Click Me"" />);
+    const buttonElement = getByText(/click me/i);
+    expect(buttonElement).toBeInTheDocument();
+});
+
+test('calls onClick handler when clicked', () => {
+    const handleClick = jest.fn();
+    const { getByText } = render(<Button label=""Click Me"" onClick={handleClick} />);
+    const buttonElement = getByText(/click me/i);
+    fireEvent.click(buttonElement);
+    expect(handleClick).toHaveBeenCalledTimes(1);
+});",,,In Progress,16/Oct/24 11:06 AM
+Develop Frontend Components,CMA-5,10039,Task,FRONTEND DEVELOPER,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:07 AM,16/Oct/24 11:06 AM,16/Nov/24 10:23 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0001j:,,,,,,,,,,,,,,,,"28/Sep/24 12:30 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;* Implement the UI using HTML, CSS, and JavaScript frameworks (e.g., React, Angular).
+* Integrate with backend APIs to fetch and display data",,,,In Progress,16/Oct/24 11:06 AM
+Design User Interface(UI),CMA-4,10038,Task,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:07 AM,19/Oct/24 9:59 AM,19/Oct/24 9:59 AM,19/Oct/24 9:59 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0001b:,,,,,,,,,,,,,,,null,"28/Sep/24 12:30 AM;712020:152ed106-3290-4698-8fa0-e1d3009626bc;* Create wireframes and mockups for the application.
+* Ensure the design is user-friendly and responsive.",,,,Done,19/Oct/24 9:59 AM
+Testing and Debugging,CMA-3,10037,Task,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:06 AM,28/Sep/24 12:06 AM,07/Dec/24 11:42 AM,28/Sep/24 12:06 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i00013:,,,,,,,,,,,,,,,null,,,,,Done,28/Sep/24 12:06 AM
+Develop Frontend Components,CMA-2,10036,Task,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:06 AM,28/Sep/24 12:06 AM,07/Dec/24 11:42 AM,28/Sep/24 12:06 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0000v:,,,,,,,,,,,,,,,null,,,,,Done,28/Sep/24 12:06 AM
+Design User Interface(UI),CMA-1,10035,Task,Done,CMA,Course_Management_Application,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,Done,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,28/Sep/24 12:05 AM,28/Sep/24 12:05 AM,18/Oct/24 10:02 PM,28/Sep/24 12:05 AM,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0000n:,,,,,,,,,,,,,,,null,,,,,Done,28/Sep/24 12:05 AM
+finances,SMS-3,10002,Task,To Do,SMS,student management system,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,,,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,14/Sep/24 12:17 PM,14/Sep/24 12:17 PM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i0000f:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/24 12:17 PM
+course information,SMS-2,10001,Task,To Do,SMS,student management system,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Harmanpreet Singh,712020:19801315-4e26-4e83-8396-5808470fe500,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,14/Sep/24 12:12 PM,14/Sep/24 12:18 PM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|i00007:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/24 12:12 PM
+student registration,SMS-1,10000,Task,To Do,SMS,student management system,software,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,Medium,,Sahilpreet Singh,712020:dd7a66ee-0d92-4eb7-9907-26ca883da1da,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,jagjeet singh,712020:152ed106-3290-4698-8fa0-e1d3009626bc,14/Sep/24 12:11 PM,14/Sep/24 12:15 PM,07/Dec/24 11:42 AM,,,0,,,jagjeet singh,,712020:152ed106-3290-4698-8fa0-e1d3009626bc,,,,,,,,,,,,,,,,,,,{},,,,,,,,,,,0|hzzzzz:,,,,,,,,,,,,,,,,,,,,To Do,14/Sep/24 12:11 PM
